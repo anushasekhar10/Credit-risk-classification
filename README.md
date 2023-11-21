@@ -1,2 +1,2 @@
-# redit-risk-classification
+# Credit-risk-classification
 Module 20 Challenge 
